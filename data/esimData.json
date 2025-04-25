@@ -1,0 +1,49 @@
+{
+  "bookingId": "esim_12345678",
+  "plan": {
+    "name": "Premium Monthly",
+    "price": "$29.99/month",
+    "validFrom": "2024-03-01",
+    "validUntil": "2024-03-31",
+    "remainingData": "5.8 GB"
+  },
+  "usage": {
+    "totalData": "10.0 GB",
+    "usedData": "4.2 GB",
+    "smsTotal": 100,
+    "smsUsed": 45,
+    "voiceTotal": "1h 0m",
+    "voiceUsed": "0h 30m"
+  },
+  "currentSession": {
+    "sessionId": "sess_esriixvgg",
+    "started": "2024-04-25T18:55:24+05:30",
+    "usageMB": 250
+  },
+  "availablePlans": [
+    {
+      "name": "Basic Monthly",
+      "price": "$19.99/month",
+      "data": "5GB",
+      "validity": "30 Days",
+      "speed": "Standard"
+    },
+    {
+      "name": "Premium Monthly",
+      "price": "$29.99/month",
+      "data": "10GB",
+      "validity": "30 Days",
+      "speed": "High",
+      "support": "Priority"
+    },
+    {
+      "name": "Unlimited Monthly",
+      "price": "$49.99/month",
+      "data": "Unlimited",
+      "validity": "30 Days",
+      "speed": "Maximum",
+      "support": "24/7",
+      "roaming": true
+    }
+  ]
+}
